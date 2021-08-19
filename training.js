@@ -6,7 +6,7 @@ test1:function(){
   
 test2:function(){
 
-   $("#jon").html(`<img src="https://gfycat.com/feminineillfatedgar">`)
+   $("#jon").html(`<iframe src="https://gfycat.com/feminineillfatedgar"></iframe>`)
 
 }
 
