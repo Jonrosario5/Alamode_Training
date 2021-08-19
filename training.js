@@ -12,7 +12,7 @@ test2:function(){
   
 test3:function(name){
 
-  $(`<h1>${name} is an Alamode Master Now`)
+  $("#jon").html(`<h1>${name} is an Alamode Master Now`)
 
 }
 
