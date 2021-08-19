@@ -5,7 +5,7 @@ test1:function(){
 },
   
 test2:function(){
-
+ 
    $("#jon").html(`<iframe src="https://gfycat.com/feminineillfatedgar"></iframe>`)
 
 }
